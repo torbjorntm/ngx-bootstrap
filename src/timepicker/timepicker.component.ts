@@ -63,6 +63,9 @@ export const TIMEPICKER_CONTROL_VALUE_ACCESSOR: any = {
     .bs-timepicker-field{
       width: 50px;
     }
+    .hidden{
+      display: none;
+    }
   `],
   encapsulation: ViewEncapsulation.None
 })
